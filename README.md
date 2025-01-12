@@ -1,4 +1,8 @@
-# Responsive Landing Practice Page - Sportify
+# Sportify Landing Page
+
+
+## https://sportify-landing-page.vercel.app/
+
 This project is a basic responsive landing page for a sports academy made with HTML5, CSS3, showcasing professional design and responsiveness across devices. Built using HTML and CSS, it emphasizes clean structure, scalability, and a modern user interface.
 
 # Features
